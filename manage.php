@@ -63,12 +63,12 @@ mysql_close($connection);
 ?>
 <html>
 <head>
-	<title>Which two paintings are drawn by the same artist?</title>
+	<title>Which two paintings are by the same artist?</title>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
 </head>
 <div id="content" align="center" >
 <p>You have successfully logged in as <?php echo $ID; ?>! <a href="./logout.php">Logout</a></p>
-<h1>Which two paintings are drawn by the same artist? (<?php echo "$TASK_ID / $num_tasks" ?>)</h1>
+<h1>Which two paintings are by the same artist? (<?php echo "$TASK_ID / $num_tasks" ?>)</h1>
 <form action='events.php' method='POST'>
 <table>
 	<tr>
