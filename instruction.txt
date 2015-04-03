@@ -1,0 +1,21 @@
+Visit the following link to access the study. You are invited to 
+work on 500 out of 3000 in total tasks. The tasks are to identify 
+two out of three paintings that belong to the same artist. 
+In order to find the artist, you are free to use any source of 
+visual properties about images at the presented resolution, such 
+as contents, styles, brushstrokes, color themes, etc. Some tasks 
+are difficult than others, so don't worry if you can not identify 
+all the correct answers.
+
+http://130.203.154.8/~bobye/picktwo-expressionism/login.php
+
+You can visit this site from the IST internal network or via PSU wifi. 
+Use browser other than IE to access the above link. Remind that 
+you can just click on images rather than the checkbox to select 
+each image. You can separate 500 tasks into about 4 sessions, 
+each time you re-login you can continue from the point of last 
+session by pressing the "continue" button.
+
+The username and password for YOU is 
+xxxx
+xxxx
